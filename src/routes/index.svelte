@@ -6,8 +6,8 @@
 </div>
 
     <div class="flex justify-around h-96">
-        <img class="object-scale-down h-96 w-120 border-2 border-green-900" src="/static/house.jpeg" alt="Front view of the house">
-        <img class="object-scale-down h-96 w-120 border-2 border-green-900" src="/static/rustic.jpeg" alt="Rustic accommodation view"/>
+        <img class="object-scale-down h-96 w-120 border-2 border-header-blue" src="/static/house.jpeg" alt="Front view of the house">
+        <img class="object-scale-down h-96 w-120 border-2 border-header-blue" src="/static/rustic.jpeg" alt="Rustic accommodation view"/>
     </div>
 
     <div class="flex justify-around h-96 py-20">
@@ -15,9 +15,9 @@
             <div class="absolute w-1/3 h-1/4 bg-slate-50 z-0 opacity-80 right-0">
                 <h3>Gallery</h3>
             </div>
-            <img class="object-scale-down h-96 w-120 border-2 border-green-900" src="/static/deal.jpeg" alt="Front view of the house">
+            <img class="object-scale-down h-96 w-120 border-2 border-header-blue" src="/static/deal.jpeg" alt="Front view of the house">
         </a>
-        <img class="object-scale-down h-96 w-120 border-2 border-green-900" src="/static/rustic.jpeg" alt="Rustic accommodation view"/>
+        <img class="object-scale-down h-96 w-120 border-2 border-header-blue" src="/static/rustic.jpeg" alt="Rustic accommodation view"/>
     </div>
 
 <style lang="postcss">
