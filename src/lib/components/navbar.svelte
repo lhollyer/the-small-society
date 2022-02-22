@@ -1,4 +1,4 @@
-<div class="w-full justify-between ">
+<div class="w-full justify-between">
 	<a href="/">The small Society</a>
 	<div>
 		<a href="/about-tss">About TsS</a>
