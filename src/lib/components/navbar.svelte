@@ -1,7 +1,7 @@
 <div class="h-16 w-full bg-light-blue text-slate-800 px-60 font-bold">
 	<div class="flex h-full flex-row items-center justify-between whitespace-nowrap" >
 		<a href="/">The small Society</a>
-		<a href="/">About TsS</a>
+		<a href="/about-tss">About TsS</a>
 		<a href="/">About Care for Carers</a>
 		<a href="/gallery">Gallery</a>
 		<a href="/">Contact Us</a>
