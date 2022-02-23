@@ -2,7 +2,7 @@
 	<a href="/">The small Society</a>
 	<div>
 		<a href="/about-tss">About TsS</a>
-		<a href="/">About Care for Carers</a>
+		<a href="/about-care-for-carers">About Care for Carers</a>
 		<a href="/gallery">Gallery</a>
 		<a href="/contact-us">Contact Us</a>
 	</div>
