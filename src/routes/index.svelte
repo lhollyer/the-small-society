@@ -1,6 +1,9 @@
 <script>
+	import Carousel from '$lib/components/carousel.svelte';
 	import Container from '$lib/components/container.svelte';
 </script>
+
+<Carousel />
 
 <Container>
 	<div class="w-full pb-10">
@@ -34,7 +37,9 @@
 
 	<div class="flex justify-around h-96 py-20">
 		<a href="/gallery" class="relative h-96">
-			<div class="absolute w-full h-1/3 bg-gradient-to-l from-gray-50 to-transparent right-0 mt-0.5 mr-0.5 opacity-80">
+			<div
+				class="absolute w-full h-1/3 bg-gradient-to-l from-gray-50 to-transparent right-0 mt-0.5 mr-0.5 opacity-80"
+			>
 				<h3 class="absolute right-0">Gallery</h3>
 			</div>
 			<img
@@ -45,6 +50,3 @@
 		</a>
 	</div>
 </Container>
-
-<style lang="postcss">
-</style>
