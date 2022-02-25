@@ -1,4 +1,4 @@
-<div class="h-16 w-full bg-light-blue text-slate-800 px-60 font-bold">
+<div class="h-16 w-full bg-light-blue border-b-4 border-header-blue text-slate-800 px-60">
 	<div class="flex h-full flex-row items-center justify-between whitespace-nowrap" >
 		<a href="/">The small Society</a>
 		<a href="/about-tss">About TsS</a>
