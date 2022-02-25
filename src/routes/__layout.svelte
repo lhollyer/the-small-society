@@ -21,7 +21,7 @@
 		@apply bg-background-beige;
 	}
 	:global(h3) {
-		@apply p-8 text-3xl font-semibold;
+		@apply py-7 px-10 text-3xl font-semibold;
 	}
 
 	:global(p) {

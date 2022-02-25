@@ -34,8 +34,8 @@
 
 	<div class="flex justify-around h-96 py-20">
 		<a href="/gallery" class="relative h-96">
-			<div class="absolute w-1/3 h-1/4 bg-slate-50 z-0 opacity-80 right-0">
-				<h3>Gallery</h3>
+			<div class="absolute w-full h-1/3 bg-gradient-to-l from-gray-50 to-transparent right-0 mt-0.5 mr-0.5 opacity-80">
+				<h3 class="absolute right-0">Gallery</h3>
 			</div>
 			<img
 				class="object-scale-down h-96 w-120 border-2 border-header-blue"
@@ -43,11 +43,6 @@
 				alt="Front view of the house"
 			/>
 		</a>
-		<img
-			class="object-scale-down h-96 w-120 border-2 border-header-blue"
-			src="/static/rustic.jpeg"
-			alt="Rustic accommodation view"
-		/>
 	</div>
 </Container>
 
