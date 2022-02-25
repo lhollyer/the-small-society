@@ -6,7 +6,7 @@
     support from the NHS or existing social services. 
  </p>
 <br>
- <p>It's primary aim is to support Carers of the 'cared for' with particular reference to those caring from mental
+ <p>Its primary aim is to support Carers of the 'cared for' with particular reference to those caring from mental
      disorders, in particular but not exclusively by providing a place of refuge for a short term stay and also by 
      providing funds for respite purposes.
  </p>
