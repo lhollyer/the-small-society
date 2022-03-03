@@ -9,12 +9,12 @@
 	<div class="flex justify-around bg-violet-500">
 		<img
 			class="object-scale-down h-50 w-96"
-			src="/static/house.jpeg"
+			src="house.jpeg"
 			alt="Front view of the house"
 		/>
 		<img
 			class="object-scale-down h-50 w-96"
-			src="/static/rustic.jpeg"
+			src="rustic.jpeg"
 			alt="Rustic accommodation view"
 		/>
 	</div>

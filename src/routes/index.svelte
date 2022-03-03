@@ -22,12 +22,12 @@
 	<div class="flex justify-around h-96">
 		<img
 			class="object-scale-down h-96 w-120 border-2 border-header-blue"
-			src="/static/house.jpeg"
+			src="house.jpeg"
 			alt="Front view of the house"
 		/>
 		<img
 			class="object-scale-down h-96 w-120 border-2 border-header-blue"
-			src="/static/rustic.jpeg"
+			src="rustic.jpeg"
 			alt="Rustic accommodation view"
 		/>
 	</div>
@@ -39,7 +39,7 @@
 			</div>
 			<img
 				class="object-scale-down h-96 w-120 border-2 border-header-blue"
-				src="/static/deal.jpeg"
+				src="deal.jpeg"
 				alt="Front view of the house"
 			/>
 		</a>
