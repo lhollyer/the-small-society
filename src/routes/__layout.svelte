@@ -16,6 +16,9 @@
 <Footer />
 
 <style lang="postcss">
+	:global(*) {
+		@apply font-poppins;
+	}
 	:global(h1) {
 		@apply text-3xl font-semibold text-header-blue pb-5;
 	}

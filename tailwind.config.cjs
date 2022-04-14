@@ -12,7 +12,7 @@ const config = {
 			}
 		},
 		fontFamily: {
-			sans: ['Poppins']
+			poppins: ['Poppins']
 		}
 	},
 
