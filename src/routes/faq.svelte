@@ -9,16 +9,13 @@
         <div class="accordion-item">
           <h2 class="accordion-header mb-0" id="headingOne">
             <button class="expanding" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-              Why was Care for Carers setup?
+              Is the accommodation suitable for wheelchairs?
             </button>
           </h2>
           <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
             data-bs-parent="#accordionExample">
             <div class="accordion-body py-4 px-5">
-              Care for Carers is a programme that we have set up to stem from our main charity - The small Society.
-              If you would like to find out more about The small Society, please click on the 'TsS' tab above.<br> 
-              Our mission is to provide support for those who spend a significant proportion of their everyday lives caring / supporting others. 
-              We hope to provide a small opportunity for those people to have some respite.
+              Unfortunately not, as the ground is on two levels with access via a flight of stairs.
             </div>
           </div>
         </div>
@@ -26,17 +23,13 @@
         <div class="accordion-item">
           <h2 class="accordion-header mb-0" id="headingTwo">
             <button class="expanding" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-              Where is Care for Carers?
+              How much will it staying with you cost? 
             </button>
           </h2>
           <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
             data-bs-parent="#accordionExample">
             <div class="accordion-body py-4 px-5">
-                We are located in Deal, East Kent.<br>
-                One of the prettiest seaside towns in Kent, Deal is a tiny but terrific hidden gem. It boosts an excellent 
-                range of independent shops, 2 weekly markets, 2 castles, wonderful architecture, a pier and 3 small museums 
-                all within walking distance. <br> 
-                In regards to the exact location of our property, we will provide this on confirmation of your stay with us. 
+              As this is the first year of operation, we have made the decision to not currently charge for our facilities. This will be reviewed for future years.
             </div>
           </div>
         </div>
@@ -44,18 +37,13 @@
         <div class="accordion-item">
           <h2 class="accordion-header mb-0" id="headingThree">
             <button class="expanding" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-              I would like to apply for a stay - how do I do this? 
+              Can I leave a donation?
             </button>
           </h2>
           <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
             data-bs-parent="#accordionExample">
             <div class="accordion-body py-4 px-5">
-              Great news!<br>
-              To provide a consistent process for everyone, we ask that you complete our application form if you wish to spend 
-              some time with us. <br>
-              This form will provide us all the information we need about yourself and your desired stay, as well as providing
-              more information about the accomodation that we offer. 
-              Once the application has been received, we will aim to be in contact with you within 3 weeks. 
+              Of course, we would gratefully receive any donation you are able to make. All donations will go to future years operation costs. 
             </div>
           </div>
         </div>
@@ -63,20 +51,118 @@
         <div class="accordion-item">
           <h2 class="accordion-header mb-0" id="headingFour">
             <button class="expanding" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-              What accomodation do you offer?
+              Do the rooms have TV's and Radios?
             </button>
           </h2>
           <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
             data-bs-parent="#accordionExample">
             <div class="accordion-body py-4 px-5">
-              We offer three different areas of accomodation - cute shed, quaint outhouse and adorable hut.<br>
-              All accomodation will offer similar amenities - a bedroom, ensuite facilities, an area to make a cup of tea and relax. 
-              <strong>Please note</strong> that we cannot guarantee that any accomodation is fully accessible and so we have inculuded 
-              further information on this within our application form. We ask that you review the provided information prior to 
-              making a booking.  
+              No, but you will have access to WiFI meaning you will be able to use your personal devices that you choose to bring. 
             </div>
           </div>
         </div>
+
+        <div class="accordion-item">
+          <h2 class="accordion-header mb-0" id="headingFive">
+            <button class="expanding" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+              Can I park my car on site? 
+            </button>
+          </h2>
+          <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
+            data-bs-parent="#accordionExample">
+            <div class="accordion-body py-4 px-5">
+              We are unable to offer onsite parking, with the nearest parking approximately 100m away. <br>
+              The local train station is located 400m away from our property, which we reccommend you use. 
+            </div>
+          </div>
+        </div>
+
+        <div class="accordion-item">
+          <h2 class="accordion-header mb-0" id="headingSix">
+            <button class="expanding" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+              Are Pets allowed?
+            </button>
+          </h2>
+          <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
+            data-bs-parent="#accordionExample">
+            <div class="accordion-body py-4 px-5">
+              Sorry, unfortunately we do not allow pets onsite. 
+            </div>
+          </div>
+        </div>
+
+        <div class="accordion-item">
+          <h2 class="accordion-header mb-0" id="headingSeven">
+            <button class="expanding" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+              Where are the nearest shops to the property?
+            </button>
+          </h2>
+          <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven"
+            data-bs-parent="#accordionExample">
+            <div class="accordion-body py-4 px-5">
+              There is an Aldi and Sainsbury by the train station (approx. 10 mins walk) and Deal town centre is a little further. 
+              There are plenty of facilities in the local area and we encourage you to explore as part of your stay with us. 
+            </div>
+          </div>
+        </div>
+
+        <div class="accordion-item">
+          <h2 class="accordion-header mb-0" id="headingEight">
+            <button class="expanding" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+              Can I help with the gardening? 
+            </button>
+          </h2>
+          <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight"
+            data-bs-parent="#accordionExample">
+            <div class="accordion-body py-4 px-5">
+              Absolutely! If you think you will want to help with gardening, please leave a note on your booking form so we are aware.<br>
+              Alternatively when you are onsite, please ask a member of staff who will be able to help.
+            </div>
+          </div>
+        </div>
+
+        <div class="accordion-item">
+          <h2 class="accordion-header mb-0" id="headingNine">
+            <button class="expanding" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+              Do the staff have any qualification and training - apart from food hygiene?
+            </button>
+          </h2>
+          <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine"
+            data-bs-parent="#accordionExample">
+            <div class="accordion-body py-4 px-5">
+              Our staff are solely onsite to support the running of the accommodation - although they will be happy to chat for a little while.
+            </div>
+          </div>
+        </div>
+
+        <div class="accordion-item">
+          <h2 class="accordion-header mb-0" id="headingTen">
+            <button class="expanding" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+              Does Care for Carers (TsS) provide any other assistance?
+            </button>
+          </h2>
+          <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen"
+            data-bs-parent="#accordionExample">
+            <div class="accordion-body py-4 px-5">
+              Not at the moment - we will update this website and any other comms in the future if this changes.
+            </div>
+          </div>
+        </div>
+
+        <div class="accordion-item">
+          <h2 class="accordion-header mb-0" id="headingEleven">
+            <button class="expanding" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEleven" aria-expanded="false" aria-controls="collapseEleven">
+              Are there any other locations for Care for Carers?
+            </button>
+          </h2>
+          <div id="collapseEleven" class="accordion-collapse collapse" aria-labelledby="headingEleven"
+            data-bs-parent="#accordionExample">
+            <div class="accordion-body py-4 px-5">
+              Not at the moment.
+            </div>
+          </div>
+        </div>
+
 
       </div>
 
