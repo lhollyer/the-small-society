@@ -1,5 +1,15 @@
 <script>
 	import Container from '$lib/components/container.svelte';
+
+  const submitForm = async (data) => {
+    const formData = new FormData(data.currentTarget);
+
+    const res = await fetch("contact.json", {
+      method: "POST",
+      body: formData,
+    });
+
+  };
 </script>
 
 <Container>
@@ -12,45 +22,29 @@
         <p>
             Please allow for a turnaround for us to read your message and reply to you - we hope this to take no longer than a week. 
         </p>
-        <form>
-            <div>
-                <label for="name">Email</label>
-                <input
-                  type="text"
-                  id="email"
-                  name="email"
-                  value=""
-                />
-            </div>
-            <div>
-              <label for="name">Password</label>
-              <input
-                type="password"
-                id="password"
-                name="password"
-                value=""
-              />
+
+
+        <form on:submit|preventDefault="{submitForm}">
+          <div>
+            <label for="">
+              Email
+            </label>
+            <input type="email" id="email" name="email" value="" />
           </div>
-            <button type="submit">Submit</button>
-          </form>
+          <div>
+            <label for="">
+              Your Query
+            </label>
+            <input type="text" id="query" name="query" value="" />
+          </div>
+          <div>
+            <input type="submit" /> 
+          </div>
+        </form> 
 </Container>
 
 <style lang="postcss">
-    * {
-        box-sizing: border-box;
-        }
-        form {
-        display: flex;
-        flex-direction: column;
-        width: 300px;
-        }
-
-        form > div{
-        display: flex;
-        justify-content: space-between;
-        }
-
-        form > div + * {
-        margin-top: 10px;
-        }
+  div {
+    margin-bottom: 1em;
+  }
 </style>
