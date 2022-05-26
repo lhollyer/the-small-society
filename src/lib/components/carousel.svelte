@@ -26,9 +26,9 @@
     ></button>
   </div>
   <div class="carousel-inner relative w-full overflow-hidden">
-    <div class="carousel-item active float-left w-full">
+    <div class="carousel-item active float-left w-full h-72">
       <img
-        src="https://mdbcdn.b-cdn.net/img/new/slides/041.webp"
+        src="./static/carousel-images/beach-boat.jpg"
         class="block w-full"
         alt="Wild Landscape"
       />
