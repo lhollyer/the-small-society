@@ -1,9 +1,6 @@
 <script>
-	import Carousel from '$lib/components/carousel.svelte';
 	import Container from '$lib/components/container.svelte';
 </script>
-
-<Carousel />
 
 <Container>
 	<div class="w-full pb-10">

@@ -1,4 +1,5 @@
 <script>
+	import HouseCarousel from '$lib/components/Carousel/houseCarousel.svelte';
 	import Container from '$lib/components/container.svelte';
 </script>
 
@@ -6,18 +7,7 @@
 	<h1>Gallery</h1>
 	<h2>Pictures of the accommodation</h2>
 
-	<div class="flex justify-around bg-violet-500">
-		<img
-			class="object-scale-down h-50 w-96"
-			src="house.jpeg"
-			alt="Front view of the house"
-		/>
-		<img
-			class="object-scale-down h-50 w-96"
-			src="rustic.jpeg"
-			alt="Rustic accommodation view"
-		/>
-	</div>
+	<HouseCarousel />
 
 	<h2>Pictures of the area</h2>
 </Container>
