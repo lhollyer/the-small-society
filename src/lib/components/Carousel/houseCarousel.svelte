@@ -43,12 +43,30 @@
       data-bs-slide-to="5"
       aria-label="Slide 6"
     ></button>
+    <button
+      type="button"
+      data-bs-target="#houseCarousel"
+      data-bs-slide-to="6"
+      aria-label="Slide 7"
+    ></button>
+    <button
+      type="button"
+      data-bs-target="#houseCarousel"
+      data-bs-slide-to="7"
+      aria-label="Slide 8"
+    ></button>
+    <button
+      type="button"
+      data-bs-target="#houseCarousel"
+      data-bs-slide-to="8"
+      aria-label="Slide 9"
+    ></button>
   </div>
 <!-- set images to be used in carousel -->
   <div class="carousel-inner relative w-full overflow-hidden">
     <div class="carousel-item active float-left w-full">
       <img
-        src="./static/carousel-images/house-garden.jpg"
+        src="/src/lib/assets/images/carousel-images/house-well.jpg"
         class="block w-full"
         alt="Garden view of the house"
       />
@@ -56,7 +74,7 @@
 
     <div class="carousel-item float-left w-full">
       <img
-        src="./static/carousel-images/house-sunset.jpg"
+        src="/src/lib/assets/images/carousel-images/house-sunset.jpg"
         class="block w-full"
         alt="Garden view of the house during a sunset"
       />
@@ -64,30 +82,51 @@
 
     <div class="carousel-item float-left w-full">
       <img
-        src="./static/carousel-images/house-sign.jpg"
+        src="/src/lib/assets/images/carousel-images/house-elephant.jpg"
         class="block w-full"
-        alt="Sign for the outside house"
+        alt="Elephant statue in the garden"
       />
     </div>
     <div class="carousel-item float-left w-full">
       <img
-        src="./static/carousel-images/house-outside.jpg"
+        src="/src/lib/assets/images/carousel-images/house-pond.jpg"
         class="block w-full"
-        alt="Front of the shed"
+        alt="Garden pond"
       />
     </div>
     <div class="carousel-item float-left w-full">
       <img
-        src="./static/carousel-images/house-garden-fence.jpg"
+        src="/src/lib/assets/images/carousel-images/house-fish.jpg"
         class="block w-full"
-        alt="Garden fence"
+        alt="Fish in pond"
       />
     </div>
     <div class="carousel-item float-left w-full">
       <img
-        src="./static/carousel-images/house-outside-well.jpg"
+        src="/src/lib/assets/images/carousel-images/house-foliage.jpg"
         class="block w-full"
-        alt="Garden view of the house"
+        alt="View of the house through the garden"
+      />
+    </div>
+    <div class="carousel-item float-left w-full">
+      <img
+        src="/src/lib/assets/images/carousel-images/house-garden.jpg"
+        class="block w-full"
+        alt="View of the garden and stairs"
+      />
+    </div>
+    <div class="carousel-item float-left w-full">
+      <img
+        src="/src/lib/assets/images/carousel-images/house-outside.jpg"
+        class="block w-full"
+        alt="Exterior of accommodation"
+      />
+    </div>
+    <div class="carousel-item float-left w-full">
+      <img
+        src="/src/lib/assets/images/carousel-images/house-wall.jpg"
+        class="block w-full"
+        alt="Wall behind the garden"
       />
     </div>
   </div>

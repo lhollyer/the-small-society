@@ -37,44 +37,70 @@
       data-bs-slide-to="4"
       aria-label="Slide 5"
     ></button>
+    <button
+      type="button"
+      data-bs-target="#localAreaCarousel"
+      data-bs-slide-to="5"
+      aria-label="Slide 6"
+    ></button>
+    <button
+      type="button"
+      data-bs-target="#localAreaCarousel"
+      data-bs-slide-to="6"
+      aria-label="Slide 7"
+    ></button>
   </div>
 <!-- set images to be used in carousel -->
-  <div class="carousel-inner relative w-full overflow-hidden bg-light-blue">
+  <div class="carousel-inner relative w-full overflow-hidden">
     <div class="carousel-item active float-left w-full">
       <img
-        src="./static/carousel-images/area-boat.jpg"
-        class="block w-full object-scale-down h-96"
-        alt="Fishing boat moored on the beach"
+        src="/src/lib/assets/images/carousel-images/local-abandoned-boat.jpg"
+        class="block w-full"
+        alt="New and old boats on the beach"
       />
     </div>
 
     <div class="carousel-item float-left w-full">
       <img
-        src="./static/carousel-images/area-castle.jpg"
-        class="block w-full object-scale-down h-96"
-        alt="Walmer Castle"
+        src="/src/lib/assets/images/carousel-images/local-buildings.jpg"
+        class="block w-full"
+        alt="Buildings in Deal"
       />
     </div>
 
     <div class="carousel-item float-left w-full">
       <img
-        src="./static/carousel-images/area-fish.jpg"
-        class="block w-full object-scale-down h-96"
-        alt="Fishing boats"
+        src="/src/lib/assets/images/carousel-images/local-boat-ferry.jpg"
+        class="block w-full"
+        alt="New boat and passing ferry"
       />
     </div>
     <div class="carousel-item float-left w-full">
       <img
-        src="./static/carousel-images/area-sea.jpg"
-        class="block w-full object-scale-down h-96"
+        src="/src/lib/assets/images/carousel-images/local-sea.jpg"
+        class="block w-full"
         alt="Sea view of Deal"
       />
     </div>
     <div class="carousel-item float-left w-full">
       <img
-        src="./static/carousel-images/area-sign.jpg"
-        class="block w-full object-scale-down h-96"
-        alt="Signpost for Deal"
+        src="/src/lib/assets/images/carousel-images/local-boats.jpg"
+        class="block w-full"
+        alt="Fishing boats"
+      />
+    </div>
+    <div class="carousel-item float-left w-full">
+      <img
+        src="/src/lib/assets/images/carousel-images/local-pier.jpg"
+        class="block w-full"
+        alt="Deal pier"
+      />
+    </div>
+    <div class="carousel-item float-left w-full">
+      <img
+        src="/src/lib/assets/images/carousel-images/local-walls.jpg"
+        class="block w-full"
+        alt="Walls around Deal"
       />
     </div>
   </div>
