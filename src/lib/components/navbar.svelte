@@ -4,7 +4,7 @@
 		<a href="/about-tss">About TsS</a>
 		<a href="/">About Care for Carers</a>
 		<a href="/gallery">Gallery</a>
-		<a href="/">Contact Us</a>
+		<a href="/contact-us">Contact Us</a>
 	</div>
 	<a href="/">Support Us</a>
 </div>
