@@ -1,3 +1,13 @@
+<script>
+  import localAbandonedBoat from "$lib/assets/images/carousel-images/local-abandoned-boat.jpg";
+  import localBuildings from "$lib/assets/images/carousel-images/local-buildings.jpg";
+  import localBoatFerry from "$lib/assets/images/carousel-images/local-boat-ferry.jpg";
+  import localSea from "$lib/assets/images/carousel-images/local-sea.jpg";
+  import localBoats from "$lib/assets/images/carousel-images/local-boats.jpg";
+  import localPier from "$lib/assets/images/carousel-images/local-pier.jpg";
+  import localWalls from "$lib/assets/images/carousel-images/local-walls.jpg";
+</script>
+
 <div
   id="localAreaCarousel"
   class="carousel slide carousel-fade relative pb-4"
@@ -54,7 +64,7 @@
   <div class="carousel-inner relative w-full overflow-hidden">
     <div class="carousel-item active float-left w-full">
       <img
-        src="/src/lib/assets/images/carousel-images/local-abandoned-boat.jpg"
+        src={localAbandonedBoat}
         class="block w-full"
         alt="New and old boats on the beach"
       />
@@ -62,7 +72,7 @@
 
     <div class="carousel-item float-left w-full">
       <img
-        src="/src/lib/assets/images/carousel-images/local-buildings.jpg"
+        src={localBuildings}
         class="block w-full"
         alt="Buildings in Deal"
       />
@@ -70,35 +80,35 @@
 
     <div class="carousel-item float-left w-full">
       <img
-        src="/src/lib/assets/images/carousel-images/local-boat-ferry.jpg"
+        src={localBoatFerry}
         class="block w-full"
         alt="New boat and passing ferry"
       />
     </div>
     <div class="carousel-item float-left w-full">
       <img
-        src="/src/lib/assets/images/carousel-images/local-sea.jpg"
+        src={localSea}
         class="block w-full"
         alt="Sea view of Deal"
       />
     </div>
     <div class="carousel-item float-left w-full">
       <img
-        src="/src/lib/assets/images/carousel-images/local-boats.jpg"
+        src={localBoats}
         class="block w-full"
         alt="Fishing boats"
       />
     </div>
     <div class="carousel-item float-left w-full">
       <img
-        src="/src/lib/assets/images/carousel-images/local-pier.jpg"
+        src={localPier}
         class="block w-full"
         alt="Deal pier"
       />
     </div>
     <div class="carousel-item float-left w-full">
       <img
-        src="/src/lib/assets/images/carousel-images/local-walls.jpg"
+        src={localWalls}
         class="block w-full"
         alt="Walls around Deal"
       />
