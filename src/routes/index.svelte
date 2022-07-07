@@ -8,19 +8,21 @@
 		<p>
 			Pete Dennis is the founder of the SMALL society, the umbrella organisation for
 			Care for Carers.
-			<br>
+		</p>
+		<p>
 			Pete found his home in Deal, Kent, 10 minutes walk from the sea, at an abandoned steam
 			mill over 10 years ago. At the time, his bipolar disorder was still undiagnosed and untreated,
 			but he recognised it as a place where he could settle and find peace.
-			<br>
+		</p>
+		<p>
 			He bought the property and land and started to build, using his skill as an engineer. Being
 			bipolar meant that the project grew and grew, took shape, changed, halted, while other
 			projects took over, and then changed again.
-			<br>
+		</p>
+		<p>
 			This meant that not only did Pete build himself a house during the renovation (The Outside
 			House), but that he had got side-tracked and accidentally added two more separate, living
-			spaces. 
-			Which meant he had room to spare.
+			spaces - which meant he had room to spare.
 		</p>
 	</div>
 
@@ -53,3 +55,9 @@
 	</div>
 	
 </Container>
+
+<style lang="postcss">
+	p {
+		@apply pb-5;
+	}
+</style>
