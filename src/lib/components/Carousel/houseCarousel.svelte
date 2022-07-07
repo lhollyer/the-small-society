@@ -1,3 +1,15 @@
+<script>
+  import houseWell from '$lib/assets/images/carousel-images/house-well.jpg';
+  import houseSunset from '$lib/assets/images/carousel-images/house-sunset.jpg';
+  import houseElephant from "$lib/assets/images/carousel-images/house-elephant.jpg";
+  import housePond from "$lib/assets/images/carousel-images/house-pond.jpg";
+  import houseFish from "$lib/assets/images/carousel-images/house-fish.jpg";
+  import houseFoliage from "$lib/assets/images/carousel-images/house-foliage.jpg";
+  import houseGarden from "$lib/assets/images/carousel-images/house-garden.jpg";
+  import houseOutside from "$lib/assets/images/carousel-images/house-outside.jpg";
+  import houseWall from "$lib/assets/images/carousel-images/house-wall.jpg";
+</script>
+
 <div
   id="houseCarousel"
   class="carousel slide carousel-fade relative pb-4"
@@ -66,7 +78,7 @@
   <div class="carousel-inner relative w-full overflow-hidden">
     <div class="carousel-item active float-left w-full">
       <img
-        src="/src/lib/assets/images/carousel-images/house-well.jpg"
+        src={houseWell}
         class="block w-full"
         alt="Garden view of the house"
       />
@@ -74,7 +86,7 @@
 
     <div class="carousel-item float-left w-full">
       <img
-        src="/src/lib/assets/images/carousel-images/house-sunset.jpg"
+        src={houseSunset}
         class="block w-full"
         alt="Garden view of the house during a sunset"
       />
@@ -82,49 +94,49 @@
 
     <div class="carousel-item float-left w-full">
       <img
-        src="/src/lib/assets/images/carousel-images/house-elephant.jpg"
+        src={houseElephant}
         class="block w-full"
         alt="Elephant statue in the garden"
       />
     </div>
     <div class="carousel-item float-left w-full">
       <img
-        src="/src/lib/assets/images/carousel-images/house-pond.jpg"
+        src={housePond}
         class="block w-full"
         alt="Garden pond"
       />
     </div>
     <div class="carousel-item float-left w-full">
       <img
-        src="/src/lib/assets/images/carousel-images/house-fish.jpg"
+        src={houseFish}
         class="block w-full"
         alt="Fish in pond"
       />
     </div>
     <div class="carousel-item float-left w-full">
       <img
-        src="/src/lib/assets/images/carousel-images/house-foliage.jpg"
+        src={houseFoliage}
         class="block w-full"
         alt="View of the house through the garden"
       />
     </div>
     <div class="carousel-item float-left w-full">
       <img
-        src="/src/lib/assets/images/carousel-images/house-garden.jpg"
+        src={houseGarden}
         class="block w-full"
         alt="View of the garden and stairs"
       />
     </div>
     <div class="carousel-item float-left w-full">
       <img
-        src="/src/lib/assets/images/carousel-images/house-outside.jpg"
+        src={houseOutside}
         class="block w-full"
         alt="Exterior of accommodation"
       />
     </div>
     <div class="carousel-item float-left w-full">
       <img
-        src="/src/lib/assets/images/carousel-images/house-wall.jpg"
+        src={houseWall}
         class="block w-full"
         alt="Wall behind the garden"
       />
