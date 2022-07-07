@@ -23,7 +23,7 @@
 		@apply text-3xl font-semibold text-header-blue pb-5;
 	}
 	:global(h2) {
-		@apply px-5 text-xl text-subheader-blue;
+		@apply text-xl text-subheader-blue pb-4;
 	}
 	:global(body) {
 		@apply bg-background-beige;

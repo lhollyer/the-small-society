@@ -16,8 +16,4 @@
 	a {
 		@apply px-5 text-xl flex hover:bg-navbar-hover hover:transition-all delay-75 h-full items-center justify-center;
 	}
-
-	.font-bold {
-		font-weight: 549;
-	}
 </style>
