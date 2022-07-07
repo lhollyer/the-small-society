@@ -66,7 +66,7 @@
         <div class="flex justify-around h-96">
             <img
                 class="object-scale-down h-96 w-120"
-                src="../../static/outside-house-sign.jpg"
+                src="outside-house-sign.jpg"
                 alt="The Outside House sign"
             />
         </div>
