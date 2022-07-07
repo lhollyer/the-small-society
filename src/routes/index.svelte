@@ -6,16 +6,23 @@
 	<div class="w-full pb-10">
 		<h1>Welcome to The small Society</h1>
 		<p>
-			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-			labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-			laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-			voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-			non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-			<br /> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-			ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-			nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-			esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
-			in culpa qui officia deserunt mollit anim id est laborum.
+			Pete Dennis is the founder of the SMALL society, the umbrella organisation for
+			Care for Carers.
+		</p>
+		<p>
+			Pete found his home in Deal, Kent, 10 minutes walk from the sea, at an abandoned steam
+			mill over 10 years ago. At the time, his bipolar disorder was still undiagnosed and untreated,
+			but he recognised it as a place where he could settle and find peace.
+		</p>
+		<p>
+			He bought the property and land and started to build, using his skill as an engineer. Being
+			bipolar meant that the project grew and grew, took shape, changed, halted, while other
+			projects took over, and then changed again.
+		</p>
+		<p>
+			This meant that not only did Pete build himself a house during the renovation (The Outside
+			House), but that he had got side-tracked and accidentally added two more separate, living
+			spaces - which meant he had room to spare.
 		</p>
 	</div>
 
@@ -43,7 +50,14 @@
 				class="object-scale-down h-96 w-120 border-2 border-header-blue"
 				src="deal.jpeg"
 				alt="Front view of the house"
-			/>
+				/>
 		</a>
 	</div>
+	
 </Container>
+
+<style lang="postcss">
+	p {
+		@apply pb-5;
+	}
+</style>
