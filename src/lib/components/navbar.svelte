@@ -81,7 +81,8 @@
 			<div class="w-[213px]" />
 		</div>
 	</div>
-</nav>
+	<a href="/faq">Frequently Asked Questions</a>
+</div>
 
 <style lang="postcss">
 	a {
