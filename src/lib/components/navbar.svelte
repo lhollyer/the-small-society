@@ -1,26 +1,5 @@
-<div class="w-full justify-between">
-	<a href="/">The small Society</a>
-	<div>
-		<a href="/about-tss">About TsS</a>
-		<a href="/about-care-for-carers">About Care for Carers</a>
-		<a href="/gallery">Gallery</a>
-		<a href="/contact-us">Contact Us</a>
-	</div>
-	<a href="/">Support Us</a>
-</div>
--->
-
-<style lang="postcss">
-	/* div {
-		@apply bg-light-blue text-slate-800 h-16 font-bold flex items-center whitespace-nowrap;
-	} */
-	a {
-		@apply px-5 text-xl flex hover:bg-navbar-hover hover:transition-all delay-75 h-full items-center;
-	}
-</style>
-
-
-<nav class="
+<nav
+	class="
   relative
   w-full
   flex flex-wrap
@@ -31,6 +10,7 @@
   shadow-lg
   navbar navbar-expand-lg navbar-light
 	min-h-[80px]
+	mb-2 lg:mb-8
   "
 >
 	<div class="
