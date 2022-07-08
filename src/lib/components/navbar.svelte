@@ -6,7 +6,7 @@
 		<a href="/gallery">Gallery</a>
 		<a href="/contact-us">Contact Us</a>
 	</div>
-	<a href="/">Support Us</a>
+	<a href="/faq">Frequently Asked Questions</a>
 </div>
 
 <style lang="postcss">

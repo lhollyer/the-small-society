@@ -3,7 +3,7 @@
         <p> Have any questions? Please refer to <a href="/faq"> our FAQs </a> here</p>
         <br>
         <p> If you have any questions please contact us <a href="mailto:thesmallsocietycharity@gmail.com"> via email here </a> </p>
-        <p> Charity Number: 12345678 </p>
+        <p> Charity Number: TBC </p>
         <p> Copyright ©2022 | The small Society</p>
 
     </div>
