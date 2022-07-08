@@ -26,21 +26,25 @@
   flex flex-wrap
   items-center
   justify-between
-  py-4
   bg-light-blue
   text-slate-800
   shadow-lg
   navbar navbar-expand-lg navbar-light
+	min-h-[80px]
   "
 >
-	<div class="container-fluid w-full flex flex-wrap items-center sm:justify-center px-6">
+	<div class="
+		container-fluid
+		w-full flex
+		flex-wrap items-center
+		lg:justify-center
+		whitespace-nowrap">
 		<button
 			class="
 				navbar-toggler
 				border-0
 				hover:shadow-none hover:no-underline
-				py-2
-				px-2.5
+				py-5 px-5
 			"
 			type="button"
 			data-bs-toggle="collapse"
@@ -72,9 +76,6 @@
 				class="
 						flex
 						items-center
-						mt-2
-						lg:mt-0
-						mr-1
 					"
 				href="/"
 			>
@@ -83,14 +84,14 @@
 
 			<!-- middle links -->
 			<ul class="navbar-nav flex flex-col list-style-none lg:justify-center">
-				<li class="nav-item p-3 w-full">
-					<a class="nav-link" href="/about-care-for-carers">About Care for Carers</a>
+				<li class="w-full">
+					<a href="/about-care-for-carers">About Care for Carers</a>
 				</li>
-				<li class="nav-item p-3 w-full">
-					<a class="nav-link" href="/gallery">Gallery</a>
+				<li class="w-full">
+					<a href="/gallery">Gallery</a>
 				</li>
-				<li class="nav-item p-3 w-full">
-					<a class="nav-link" href="/contact-us">Contact Us</a>
+				<li class="w-full">
+					<a href="/contact-us">Contact Us</a>
 				</li>
 			</ul>
 
@@ -99,22 +100,8 @@
 	</div>
 </nav>
 
-<!-- <div class="w-full justify-between ">
-	<a href="/">The small Society</a>
-	<div>
-		<a href="/about-tss">About TsS</a>
-		<a href="/">About Care for Carers</a>
-		<a href="/gallery">Gallery</a>
-		<a href="/contact-us">Contact Us</a>
-	</div>
-	<a href="/">Support Us</a>
-</div>
--->
 <style lang="postcss">
-	/* div {
-		@apply bg-light-blue text-slate-800 h-16 font-bold flex items-center whitespace-nowrap;
-	} */
 	a {
-		@apply px-5 text-xl flex hover:bg-navbar-hover hover:transition-all delay-75 h-full items-center;
+		@apply px-5 text-xl flex hover:bg-navbar-hover hover:transition-all delay-75 h-20 items-center;
 	}
 </style>
