@@ -35,7 +35,7 @@
 		/>
 	</div>
 
-	<div class="flex flex-row justify-center space-x-14 pb-10">
+	<div class="flex flex-col md:flex-row justify-center md:space-x-14 pb-10">
 		<a href="/about-tss">
 			<div class="homepage-buttons text-center bg-light-blue border-4 border-header-blue hover:border-slate-800 hover:bg-mid-blue">	
 				<h2>More about the Small society </h2>
@@ -68,6 +68,6 @@
 		@apply pb-5;
 	}
 	.homepage-buttons {
-		@apply w-52 h-28 mt-10 p-2 flex items-center justify-center
+		@apply w-full md:w-52 h-28 mt-10 p-2 flex items-center justify-center m-auto
 	}
 </style>
