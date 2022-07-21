@@ -35,19 +35,19 @@
 		/>
 	</div>
 
-	<div class="flex flex-row justify-center space-x-14">
+	<div class="flex flex-row justify-center space-x-14 pb-10">
 		<a href="/about-tss">
-			<div class="w-52 h-28 mt-10 p-2 flex items-center text-center bg-light-blue border-4 border-header-blue hover:border-slate-800 hover:bg-mid-blue">	
+			<div class="homepage-buttons text-center bg-light-blue border-4 border-header-blue hover:border-slate-800 hover:bg-mid-blue">	
 				<h2>More about the Small society </h2>
 			</div>
 		</a>
 		<a href="/gallery">
-			<div class= "w-52 h-28 mt-10 p-2 flex items-center justify-center bg-light-blue border-4 border-header-blue hover:border-slate-800 hover:bg-mid-blue">	
+			<div class= "homepage-buttons bg-light-blue border-4 border-header-blue hover:border-slate-800 hover:bg-mid-blue">	
 				<h2> Gallery </h2>
 			</div>
 		</a>
 		<a href="/contact-us">
-			<div class= "w-52 h-28 mt-10 mb-10 p-2 flex items-center justify-center bg-light-blue border-4 border-header-blue hover:border-slate-800 hover:bg-mid-blue">	
+			<div class= "homepage-buttons bg-light-blue border-4 border-header-blue hover:border-slate-800 hover:bg-mid-blue">	
 				<h2> Get in touch </h2>
 			</div> 
 		</a>
@@ -57,14 +57,17 @@
 		<img
 			class="object-scale-down"
 			src={houseElephant}
-			alt="Front view of the property"
+			alt="Metal statue of Elephant"
 		/>
 	</div>
 	
 </Container>
-
+ 
 <style lang="postcss">
 	p {
 		@apply pb-5;
+	}
+	.homepage-buttons {
+		@apply w-52 h-28 mt-10 p-2 flex items-center justify-center
 	}
 </style>
