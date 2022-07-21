@@ -1,5 +1,6 @@
 <script>
 	import Container from '$lib/components/container.svelte';
+	import houseElephant from "$lib/assets/images/carousel-images/house-elephant.jpg";
 </script>
 
 <Container>
@@ -24,51 +25,46 @@
 			House), but that he had got side-tracked and accidentally added two more separate, living
 			spaces - which meant he had room to spare.
 		</p>
-
-		<div>
-			<img
-				class="object-scale-down"
-				src="dealhp.png"
-				alt="Aerial view of Deal seafront"
-			/>
-		</div>
-
-		<div class="flex flex-row justify-center space-x-14">
-			<a href="/about-tss">
-				<div class="w-52 h-28 mt-10 p-2 flex items-center justify-center bg-light-blue border-4 border-header-blue hover:border-slate-800 hover:bg-mid-blue">	
-					<h2> More about the Small society </h2>
-
-				</div>
-			</a>
-			<a href="/gallery">
-				<div class= "w-52 h-28 mt-10 p-2 flex items-center justify-center bg-light-blue border-4 border-header-blue hover:border-slate-800 hover:bg-mid-blue">	
-					<h2> Gallery </h2>
-
-				</div>
-			</a>
-			<a href="/contact-us">
-				<div class= "w-52 h-28 mt-10 mb-10 p-2 flex items-center justify-center bg-light-blue border-4 border-header-blue hover:border-slate-800 hover:bg-mid-blue">	
-					<h2> Get in touch </h2>
-				</div> 
-			</a>
-		</div>
-
-		<div>
-			<img
-				class="object-scale-down"
-				src="house.jpeg"
-				alt="Front view of the property"
-			/>
-		</div>
-
 	</div>
+
+	<div>
+		<img
+			class="object-scale-down"
+			src="dealhp.png"
+			alt="Aerial view of Deal seafront"
+		/>
+	</div>
+
+	<div class="flex flex-row justify-center space-x-14">
+		<a href="/about-tss">
+			<div class="w-52 h-28 mt-10 p-2 flex items-center text-center bg-light-blue border-4 border-header-blue hover:border-slate-800 hover:bg-mid-blue">	
+				<h2>More about the Small society </h2>
+			</div>
+		</a>
+		<a href="/gallery">
+			<div class= "w-52 h-28 mt-10 p-2 flex items-center justify-center bg-light-blue border-4 border-header-blue hover:border-slate-800 hover:bg-mid-blue">	
+				<h2> Gallery </h2>
+			</div>
+		</a>
+		<a href="/contact-us">
+			<div class= "w-52 h-28 mt-10 mb-10 p-2 flex items-center justify-center bg-light-blue border-4 border-header-blue hover:border-slate-800 hover:bg-mid-blue">	
+				<h2> Get in touch </h2>
+			</div> 
+		</a>
+	</div>
+
+	<div>
+		<img
+			class="object-scale-down"
+			src={houseElephant}
+			alt="Front view of the property"
+		/>
+	</div>
+
 </Container>
 
 <style lang="postcss">
 	p {
 		@apply pb-5;
-	}
-	h2 {
-		@apply text-center;
 	}
 </style>
