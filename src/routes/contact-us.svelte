@@ -3,7 +3,7 @@
 </script>
 
 <Container>
-    <h1>Contact Us!</h1>
+    <h1>Contact Us</h1>
         <p>
             If you have any questions, please use the below form to get in touch. Alternatively you can email us at <a href="mailto:thesmallsocietycharity@gmail.com"> thesmallsocietycharity@gmail.com </a></p>
         <br>

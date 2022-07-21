@@ -5,6 +5,7 @@ const config = {
 		extend: {
 			colors: {
 				'light-blue': '#ABC3C9',
+				'mid-blue': '#8cadb5',
 				'navbar-hover': '#c1d8de',
 				'header-blue': '#44749D',
 				'subheader-blue': '#004469',

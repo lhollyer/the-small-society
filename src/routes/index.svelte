@@ -1,12 +1,13 @@
 <script>
 	import Container from '$lib/components/container.svelte';
+	import houseElephant from "$lib/assets/images/carousel-images/house-elephant.jpg";
 </script>
 
 <Container>
-	<div class="w-full pb-10">
+	<div class="w-full">
 		<h1>Welcome to The small Society</h1>
 		<p>
-			Pete Dennis is the founder of the SMALL society, the umbrella organisation for
+			Pete Dennis is the founder of The small Society, the umbrella organisation for
 			Care for Carers.
 		</p>
 		<p>
@@ -26,38 +27,47 @@
 		</p>
 	</div>
 
-	<div class="flex justify-around h-96">
+	<div>
 		<img
-			class="object-scale-down h-96 w-120 border-2 border-header-blue"
-			src="house.jpeg"
-			alt="Front view of the house"
-		/>
-		<img
-			class="object-scale-down h-96 w-120 border-2 border-header-blue"
-			src="rustic.jpeg"
-			alt="Rustic accommodation view"
+			class="object-scale-down"
+			src="dealhp.png"
+			alt="Aerial view of Deal seafront"
 		/>
 	</div>
 
-	<div class="flex justify-around h-96 py-20">
-		<a href="/gallery" class="relative h-96">
-			<div
-				class="absolute w-full h-1/3 bg-gradient-to-l from-gray-50 to-transparent right-0 mt-0.5 mr-0.5 opacity-80"
-			>
-				<h3 class="absolute right-0">Gallery</h3>
+	<div class="flex flex-row justify-center space-x-14 pb-10">
+		<a href="/about-tss">
+			<div class="homepage-buttons text-center bg-light-blue border-4 border-header-blue hover:border-slate-800 hover:bg-mid-blue">	
+				<h2>More about the Small society </h2>
 			</div>
-			<img
-				class="object-scale-down h-96 w-120 border-2 border-header-blue"
-				src="deal.jpeg"
-				alt="Front view of the house"
-				/>
 		</a>
+		<a href="/gallery">
+			<div class= "homepage-buttons bg-light-blue border-4 border-header-blue hover:border-slate-800 hover:bg-mid-blue">	
+				<h2> Gallery </h2>
+			</div>
+		</a>
+		<a href="/contact-us">
+			<div class= "homepage-buttons bg-light-blue border-4 border-header-blue hover:border-slate-800 hover:bg-mid-blue">	
+				<h2> Get in touch </h2>
+			</div> 
+		</a>
+	</div>
+
+	<div>
+		<img
+			class="object-scale-down"
+			src={houseElephant}
+			alt="Metal statue of Elephant"
+		/>
 	</div>
 	
 </Container>
-
+ 
 <style lang="postcss">
 	p {
 		@apply pb-5;
+	}
+	.homepage-buttons {
+		@apply w-52 h-28 mt-10 p-2 flex items-center justify-center
 	}
 </style>
