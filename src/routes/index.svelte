@@ -60,6 +60,7 @@
 			alt="Front view of the property"
 		/>
 	</div>
+	
 </Container>
 
 <style lang="postcss">
