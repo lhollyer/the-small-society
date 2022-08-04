@@ -65,7 +65,7 @@
 			<!-- middle links -->
 			<ul class="navbar-nav flex flex-col list-style-none lg:justify-center">
 				<li class="w-full">
-					<a href="/about-tss">About TsS</a>
+					<a href="/about-tss">About The small Society</a>
 				</li>
 				<li class="w-full">
 					<a href="/about-care-for-carers">About Care for Carers</a>
@@ -77,7 +77,7 @@
 					<a href="/contact-us">Contact Us</a>
 				</li>
 				<li class="w-full">
-					<a href="/faq">Frequently Asked Questions</a>
+					<a href="/faq">FAQs</a>
 				</li>
 			</ul>
 

@@ -7,23 +7,10 @@
 	<div class="w-full">
 		<h1>Welcome to The small Society</h1>
 		<p>
-			Pete Dennis is the founder of The small Society, the umbrella organisation for
-			Care for Carers.
+			We provide free accommodation to carers at a house in Deal ['house in deal' links to About Care for Carers Page]. Our aim ['Our aim' possibly links to the 'About TsS' Page] is to aid the mental health and wellbeing of those who spend their time caring for others.
 		</p>
 		<p>
-			Pete found his home in Deal, Kent, 10 minutes walk from the sea, at an abandoned steam
-			mill over 10 years ago. At the time, his bipolar disorder was still undiagnosed and untreated,
-			but he recognised it as a place where he could settle and find peace.
-		</p>
-		<p>
-			He bought the property and land and started to build, using his skill as an engineer. Being
-			bipolar meant that the project grew and grew, took shape, changed, halted, while other
-			projects took over, and then changed again.
-		</p>
-		<p>
-			This meant that not only did Pete build himself a house during the renovation (The Outside
-			House), but that he had got side-tracked and accidentally added two more separate, living
-			spaces - which meant he had room to spare.
+			There are two separate accomodations on site ['two separate accomodations on site' links to Gallery] in which guest can stay for free, if you are interested in staying please contact us ['contact us' links to the Contact Us Page] and also have a read of the FAQ ['FAQ' links to the FAQ Page].
 		</p>
 	</div>
 
