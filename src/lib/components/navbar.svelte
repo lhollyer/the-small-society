@@ -76,13 +76,15 @@
 				<li class="w-full">
 					<a href="/contact-us">Contact Us</a>
 				</li>
+				<li class="w-full">
+					<a href="/faq">Frequently Asked Questions</a>
+				</li>
 			</ul>
 
 			<div class="w-[213px]" />
 		</div>
 	</div>
-	<a href="/faq">Frequently Asked Questions</a>
-</div>
+</nav>
 
 <style lang="postcss">
 	a {
