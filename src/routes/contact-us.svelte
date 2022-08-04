@@ -13,8 +13,8 @@
 
         <br>
         <!-- svelte-ignore a11y-missing-attribute -->
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScIT0GHeP1OOep2p5I1-fcd5_bxE_0nErYCOH-OmivOQ-MaEg/viewform?embedded=true" width="350" height="700" frameborder="0" marginheight="0" marginwidth="0" class="md:w-[730px] flex m-auto">Loading…</iframe>
-</Container>
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScgSF_HHC52UGF57Ue4jaL34pDYOcF6Bei6fTCnaW-tDcxnIQ/viewform?embedded=true" width="730" height="650" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    </Container>
 
 <style lang="postcss">
   	a {
