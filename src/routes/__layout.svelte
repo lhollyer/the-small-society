@@ -35,4 +35,17 @@
 	:global(p) {
 		@apply leading-7;
 	}
+
+	:global(.homepage-styled-buttons) {
+		@apply w-full md:w-52 h-28 p-2 flex items-center justify-center m-auto
+	}
+
+	:global(.cfc-styled-buttons) {
+		@apply w-full md:w-72 h-36 py-4 flex items-center justify-center m-auto
+	}
+
+	:global(.hover-styling) {
+		@apply 	bg-light-blue border-4 border-header-blue hover:border-slate-800 hover:bg-mid-blue
+	}
+
 </style>

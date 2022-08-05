@@ -1,9 +1,26 @@
 <script>
 	import Container from '$lib/components/container.svelte';
+    import InformationPDF from "$lib/assets/pdfs/CfCFurtherInformation.pdf";
+    import AccomodationPDF from "$lib/assets/pdfs/CfCAccomodation.pdf";
 </script>
 
 <Container>
     <h1>About Care for Carers</h1>
+
+    <div class="flex flex-col md:flex-row justify-center pb-10">
+            <div class="cfc-styled-buttons text-center hover-styling">
+                <a class="btn btn-primary" href={InformationPDF} download>
+                    <h2>Find out more about Care for Carers (PDF) </h2>
+                </a>
+             </div>
+
+            <div class="cfc-styled-buttons text-center hover-styling">
+                <a class="btn btn-primary" href={AccomodationPDF} download>
+                    <h2>Find out more about our accomodation (PDF) </h2>
+                </a>
+             </div>
+    </div>
+
     <p>
         Pete Dennis is the founder of The small Society, the umbrella organisation for
         Care for Carers.
@@ -23,6 +40,7 @@
         House), but that he had got side-tracked and accidentally added two more separate, living
         spaces - which meant he had room to spare.
     </p>
+
     <div>
         <h2>The Space in Deal</h2>
         <p>
