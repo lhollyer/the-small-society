@@ -1,11 +1,12 @@
 <script>
 	import Container from '$lib/components/container.svelte';
+	import houseElephant from "$lib/assets/images/carousel-images/house-elephant.jpg";
 </script>
 
 <Container>
     <h1>About The small Society</h1>
     <br>
-    <div>
+    <div class="mb-10">
     <p>The small Society is being established to promote the mental health and wellness of individuals and to support the
         recovery of persons experiencing mental illness, particularly where individuals are unwilling or unable to access
         support from the NHS or existing social services.
@@ -20,5 +21,15 @@
         of issues around mental health with a particular reference to the needs of carers and those supporting individuals
         with a mental health condition.
     </p>
+    </div>
+    <div>
+
+    <h1>About the Trustees</h1>
+    <p>Insert text here</p>
+    <img
+			class="object-scale-down"
+			src={houseElephant}
+			alt="Metal statue of Elephant"
+		/>
     </div>
 </Container>
