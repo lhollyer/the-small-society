@@ -1,22 +1,24 @@
 <script>
 	import Container from '$lib/components/container.svelte';
+    import InformationPDF from "$lib/assets/pdfs/CfCFurtherInformation.pdf";
+    import AccomodationPDF from "$lib/assets/pdfs/CfCAccomodation.pdf";
 </script>
 
 <Container>
     <h1>About Care for Carers</h1>
 
     <div class="flex flex-col md:flex-row justify-center">
-        <div class="cfc-styled-buttons text-center bg-light-blue border-4 border-header-blue hover:border-slate-800 hover:bg-mid-blue">
-            <a class="btn btn-primary" href="./src/lib/assets/pdfs/CfCFurtherInformation.pdf" download>
-                <h2>Find out more about Care for Carers (PDF) </h2>
-            </a>
-         </div>
+            <div class="cfc-styled-buttons text-center bg-light-blue border-4 border-header-blue hover:border-slate-800 hover:bg-mid-blue">
+                <a class="btn btn-primary" href={InformationPDF} download>
+                    <h2>Find out more about Care for Carers (PDF) </h2>
+                </a>
+             </div>
 
-        <div class="cfc-styled-buttons text-center bg-light-blue border-4 border-header-blue hover:border-slate-800 hover:bg-mid-blue">
-            <a class="btn btn-primary" href="./src/lib/assets/pdfs/CfCAccomodation.pdf" download>
-                <h2>Find out more about our accomodation (PDF) </h2>
-            </a>
-         </div>
+            <div class="cfc-styled-buttons text-center bg-light-blue border-4 border-header-blue hover:border-slate-800 hover:bg-mid-blue">
+                <a class="btn btn-primary" href={AccomodationPDF} download>
+                    <h2>Find out more about our accomodation (PDF) </h2>
+                </a>
+             </div>
     </div>
 
     <p>
