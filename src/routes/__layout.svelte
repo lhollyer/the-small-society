@@ -35,4 +35,12 @@
 	:global(p) {
 		@apply leading-7;
 	}
+
+	:global(.homepage-styled-buttons) {
+		@apply w-full md:w-52 h-28 p-2 flex items-center justify-center m-auto
+	}
+
+	:global(.cfc-styled-buttons) {
+		@apply w-full md:w-72 h-36 py-4 flex items-center justify-center m-auto
+	}
 </style>
