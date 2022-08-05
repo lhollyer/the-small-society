@@ -24,17 +24,17 @@
 
 	<div class="flex flex-col md:flex-row justify-center md:space-x-14 mt-10 pb-10">
 		<a href="/about-tss">
-			<div class="homepage-styled-buttons text-center bg-light-blue border-4 border-header-blue hover:border-slate-800 hover:bg-mid-blue">	
+			<div class="homepage-styled-buttons text-center hover-styling">	
 				<h2>More about the Small society </h2>
 			</div>
 		</a>
 		<a href="/gallery">
-			<div class= "homepage-styled-buttons bg-light-blue border-4 border-header-blue hover:border-slate-800 hover:bg-mid-blue">	
+			<div class= "homepage-styled-buttons hover-styling">	
 				<h2> Gallery </h2>
 			</div>
 		</a>
 		<a href="/contact-us">
-			<div class= "homepage-styled-buttons bg-light-blue border-4 border-header-blue hover:border-slate-800 hover:bg-mid-blue">	
+			<div class= "homepage-styled-buttons hover-styling">	
 				<h2> Get in touch </h2>
 			</div> 
 		</a>
