@@ -7,19 +7,12 @@
     <h1>About The small Society</h1>
     <br>
     <div class="mb-10">
-    <p>The small Society is being established to promote the mental health and wellness of individuals and to support the
-        recovery of persons experiencing mental illness, particularly where individuals are unwilling or unable to access
-        support from the NHS or existing social services.
+    <p>
+        The primary aim of The small Society is to support those who care for others, with parcular emphasis, although not exclusively, on those caring for people with mental disorders. This will be achieved by providing a place of refuge for short term breaks and help with funding for respite purposes.
     </p>
     <br>
-    <p>Its primary aim is to support Carers of the 'cared for' with particular reference to those caring from mental
-        disorders, in particular but not exclusively by providing a place of refuge for a short term stay and also by
-        providing funds for respite purposes.
-    </p>
-    <br>
-    <p>The small Society also aims to provide or produce information and resources that will further the understanding
-        of issues around mental health with a particular reference to the needs of carers and those supporting individuals
-        with a mental health condition.
+    <p>
+        In addition, we plan to provide informa$on and resources that will further the understanding of issues around mental health, with the inten$on of highlighting the struggles of those who spend their lives supportng an increasing number of vulnerable people in society, and for whom funding is most lacking.
     </p>
     </div>
     <div>

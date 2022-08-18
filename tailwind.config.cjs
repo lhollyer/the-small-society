@@ -9,6 +9,7 @@ const config = {
 				'navbar-hover': '#c1d8de',
 				'header-blue': '#44749D',
 				'subheader-blue': '#004469',
+				'homepage-link-blue': '#0a6494',
 				'background-beige': '#f0f7fa'
 			}
 		},
