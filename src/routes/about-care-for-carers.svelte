@@ -7,16 +7,16 @@
 <Container>
     <h1>About Care for Carers</h1>
 
-    <div class="flex flex-col md:flex-row justify-center pb-10">
+    <div class="flex flex-col md:flex-row pb-10">
             <div class="cfc-styled-buttons text-center hover-styling">
                 <a class="btn btn-primary" href={InformationPDF} download>
-                    <h2>Find out more about Care for Carers (PDF) </h2>
+                    <h2 class="button-text-styling"> Find out more about Care for Carers (PDF) </h2>
                 </a>
              </div>
 
             <div class="cfc-styled-buttons text-center hover-styling">
                 <a class="btn btn-primary" href={AccomodationPDF} download>
-                    <h2>Find out more about our accomodation (PDF) </h2>
+                    <h2 class="button-text-styling">Find out more about our accomodation (PDF) </h2>
                 </a>
              </div>
     </div>
@@ -81,7 +81,7 @@
 
     <div>
         <h2>Naming of the Outside House</h2>
-        <p>
+        <p> 
             Christened by Pete's goddaughter, Isobel (then age 4), when it was still a building site, and in order to distinguish it from his Inside House which had a roof. At the time the land was still unregistered and the name has stuck - as has the sign that she helpfully provided.
         </p>
         <div class="flex justify-around h-96">
