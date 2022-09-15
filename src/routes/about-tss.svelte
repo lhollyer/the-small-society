@@ -1,6 +1,6 @@
 <script>
 	import Container from '$lib/components/container.svelte';
-	import houseElephant from "$lib/assets/images/carousel-images/garden-elephant.jpg";
+	import gardenHeron from '$lib/assets/images/carousel-images/garden-heron.jpg';
 </script>
 
 <Container>
