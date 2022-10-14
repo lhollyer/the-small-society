@@ -17,3 +17,9 @@
 	<LocalAreaCarousel />
 
 </Container>
+
+<style lang="postcss">
+	h2 {
+		@apply pt-4;
+	}
+</style>
