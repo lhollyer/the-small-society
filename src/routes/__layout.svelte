@@ -40,10 +40,10 @@
 		@apply text-xl text-subheader-blue pb-0;
 	}
 	:global(.homepage-styled-buttons) {
-		@apply w-full md:w-52 h-28 p-2 flex items-center justify-center m-auto
+		@apply w-full md:w-52 h-28 p-2 flex items-center justify-center m-auto mb-5
 	}
 	:global(.cfc-styled-buttons) {
-		@apply w-full md:w-72 h-28 py-10 flex items-center justify-center m-auto
+		@apply w-full md:w-72 h-28 py-10 flex items-center justify-center m-auto mb-5 px-2
 	}
 	:global(.hover-styling) {
 		@apply 	bg-light-blue border-4 border-header-blue hover:border-slate-800 hover:bg-mid-blue

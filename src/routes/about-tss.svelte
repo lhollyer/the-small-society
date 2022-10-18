@@ -1,6 +1,5 @@
 <script>
 	import Container from '$lib/components/container.svelte';
-	import houseElephant from "$lib/assets/images/carousel-images/garden-elephant.jpg";
 </script>
 
 <Container>
@@ -16,13 +15,4 @@
     </p>
     </div>
     <div>
-
-    <h1>About the Trustees</h1>
-    <p>Insert text here</p>
-    <img
-			class="object-scale-down"
-			src={houseElephant}
-			alt="Metal statue of Elephant"
-		/>
-    </div>
 </Container>
