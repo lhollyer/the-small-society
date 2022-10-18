@@ -2,6 +2,7 @@
 	import Container from '$lib/components/container.svelte';
     import InformationPDF from "$lib/assets/pdfs/CfCFurtherInformation.pdf";
     import AccomodationPDF from "$lib/assets/pdfs/CfCAccomodation.pdf";
+	import rusticSign from "$lib/assets/images/rustic-sign.jpg";
 </script>
 
 <Container>
@@ -87,7 +88,7 @@
         <div class="flex justify-around h-96">
             <img
                 class="object-scale-down h-96 w-120"
-                src="outside-house-sign.jpg"
+                src={rusticSign}
                 alt="The Outside House sign"
             />
         </div>
