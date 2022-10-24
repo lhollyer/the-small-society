@@ -1,4 +1,4 @@
-# The Small Society
+# The small Society
 
 Created using Sveltekit & Tailwind CSS.
 
