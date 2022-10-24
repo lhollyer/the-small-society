@@ -18,7 +18,7 @@
 	</div>
 
 	<div>
-		<iframe width="750" height="420" class="md:w-[730px] w-[370px] flex m-auto" src="https://www.youtube.com/embed/jSY4P4Rgm0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="750" height="420" class="md:w-[730px] w-[340px] flex m-auto" src="https://www.youtube.com/embed/jSY4P4Rgm0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 
 	<div class="flex flex-col md:flex-row justify-center md:space-x-16 mt-14 pb-14">
